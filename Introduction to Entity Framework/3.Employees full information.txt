@@ -1,0 +1,293 @@
+Guy Gilbert R Production Technician 12500.0000
+Kevin Brown F Marketing Assistant 13500.0000
+Roberto Tamburello  Engineering Manager 43300.0000
+Rob Walters  Senior Tool Designer 29800.0000
+Thierry D'Hers B Tool Designer 25000.0000
+David Bradley M Marketing Manager 37500.0000
+JoLynn Dobney M Production Supervisor 25000.0000
+Ruth Ellerbrock Ann Production Technician 13500.0000
+Gail Erickson A Design Engineer 32700.0000
+Barry Johnson K Production Technician 13500.0000
+Jossef Goldberg H Design Engineer 32700.0000
+Terri Duffy Lee Vice President of Engineering 63500.0000
+Sidney Higa M Production Technician 13500.0000
+Taylor Maxwell R Production Supervisor 25000.0000
+Jeffrey Ford L Production Technician 13500.0000
+Jo Brown A Production Supervisor 25000.0000
+Doris Hartwig M Production Technician 13500.0000
+John Campbell T Production Supervisor 25000.0000
+Diane Glimp R Production Technician 13500.0000
+Steven Selikoff T Production Technician 9500.0000
+Peter Krebs J Production Control Manager 24500.0000
+Stuart Munson V Production Technician 10000.0000
+Greg Alderson F Production Technician 10000.0000
+David Johnson  Production Technician 9500.0000
+Zheng Mu W Production Supervisor 25000.0000
+Ivo Salmre William Production Technician 14000.0000
+Paul Komosinski B Production Technician 15000.0000
+Ashvini Sharma R Network Administrator 32500.0000
+Kendall Keil C Production Technician 11000.0000
+Paula Barreto de Mattos M Human Resources Manager 27100.0000
+Alejandro McGuel E Production Technician 15000.0000
+Garrett Young R Production Technician 9500.0000
+Jian Shuo Wang  Production Technician 9500.0000
+Susan Eaton W Stocker 9000.0000
+Vamsi Kuppa  Shipping and Receiving Clerk 9500.0000
+Alice Ciccu O Production Technician 11000.0000
+Simon Rapier D Production Technician 12500.0000
+Jinghao Liu K Production Supervisor 25000.0000
+Michael Hines T Production Technician 14000.0000
+Yvonne McKay S Production Technician 10000.0000
+Peng Wu J Quality Assurance Supervisor 21600.0000
+Jean Trenary E Information Services Manager 50500.0000
+Russell Hunter  Production Technician 11000.0000
+A. Scott Wright  Master Scheduler 23600.0000
+Fred Northup T Production Technician 15000.0000
+Sariya Harnpadoungsataya E Marketing Specialist 14400.0000
+Willis Johnson T Recruiter 18300.0000
+Jun Cao T Production Technician 11000.0000
+Christian Kleinerman E Maintenance Supervisor 20400.0000
+Susan Metters A Production Technician 9500.0000
+Reuben D'sa H Production Supervisor 25000.0000
+Kirk Koenigsbauer J Production Technician 10000.0000
+David Ortiz J Production Technician 12500.0000
+Tengiz Kharatishvili  Control Specialist 16800.0000
+Hanying Feng P Production Technician 14000.0000
+Kevin Liu H Production Technician 15000.0000
+Annik Stahl O Production Technician 12500.0000
+Suroor Fatima R Production Technician 11000.0000
+Deborah Poe E Accounts Receivable Specialist 19000.0000
+Jim Scardelis H Production Technician 11000.0000
+Carole Poland M Production Technician 9500.0000
+George Li Z Production Technician 9500.0000
+Gary Yukish W Production Technician 15000.0000
+Cristian Petculescu K Production Supervisor 25000.0000
+Raymond Sam K Production Technician 14000.0000
+Janaina Bueno Barreiro Gambaro Application Specialist 27400.0000
+Bob Hohman  Production Technician 11000.0000
+Shammi Mohamed G Production Technician 15000.0000
+Linda Moschell K Production Technician 11000.0000
+Mindy Martin C Benefits Specialist 16600.0000
+Wendy Kahn Beth Finance Manager 43300.0000
+Kim Ralls T Stocker 9000.0000
+Sandra Reategui Alayo  Production Technician 9500.0000
+Kok-Ho Loh T Production Supervisor 25000.0000
+Douglas Hite B Production Technician 10000.0000
+James Kramer D Production Technician 12500.0000
+Sean Alexander P Quality Assurance Technician 10600.0000
+Nitin Mirchandani S Production Technician 14000.0000
+Diane Margheim L Research and Development Engineer 40900.0000
+Rebecca Laszlo A Production Technician 12500.0000
+Rajesh Patel M Production Technician 15000.0000
+Vidur Luthra X Recruiter 18300.0000
+John Evans P Production Technician 11000.0000
+Nancy Anderson A Production Technician 12500.0000
+Pilar Ackerman G Shipping and Receiving Supervisor 19200.0000
+David Yalovsky A Production Technician 9500.0000
+David Hamilton P Production Supervisor 25000.0000
+Laura Steele C Production Technician 10000.0000
+Margie Shoop W Production Technician 12500.0000
+Zainal Arifin T Document Control Manager 17800.0000
+Lorraine Nay O Production Technician 15000.0000
+Fadi Fakhouri K Production Technician 14000.0000
+Ryan Cornelsen L Production Technician 15000.0000
+Candy Spoon L Accounts Receivable Specialist 19000.0000
+Nuan Yu  Production Technician 11000.0000
+William Vong S Scheduling Assistant 16000.0000
+Bjorn Rettig M Production Technician 9500.0000
+Scott Gode R Production Technician 10000.0000
+Michael Rothkugel L Production Technician 15000.0000
+Lane Sacksteder M Production Technician 14000.0000
+Pete Male C Production Technician 11000.0000
+Dan Bacon K Application Specialist 27400.0000
+David Barber M Assistant to the Chief Financial Officer 13500.0000
+Lolan Song B Production Technician 11000.0000
+Paula Nartker R Production Technician 15000.0000
+Mary Gibson E Marketing Specialist 14400.0000
+Mindaugas Krapauskas J Production Technician 11000.0000
+Eric Gubbels  Production Supervisor 25000.0000
+Ken Sanchez J Chief Executive Officer 125500.0000
+Jason Watters M Production Technician 9500.0000
+Mark Harrington L Quality Assurance Technician 10600.0000
+Janeth Esteves M Production Technician 10000.0000
+Marc Ingle J Production Technician 9500.0000
+Gigi Matthew  Research and Development Engineer 40900.0000
+Paul Singh R Production Technician 14000.0000
+Frank Lee T Production Technician 15000.0000
+Francois Ajenstat P Database Administrator 38500.0000
+Diane Tibbott H Production Technician 11000.0000
+Jill Williams A Marketing Specialist 14400.0000
+Angela Barbariol W Production Technician 11000.0000
+Matthias Berndt T Shipping and Receiving Clerk 9500.0000
+Bryan Baker  Production Technician 12500.0000
+Jeff Hay V Production Supervisor 25000.0000
+Eugene Zabokritski R Production Technician 9500.0000
+Barbara Decker S Production Technician 14000.0000
+Chris Preston T Production Technician 10000.0000
+Sean Chai  Document Control Assistant 10300.0000
+Dan Wilson B Database Administrator 38500.0000
+Mark McArthur K Production Technician 12500.0000
+Bryan Walton A Accounts Receivable Specialist 19000.0000
+Houman Pournasseh  Production Technician 11000.0000
+Sairaj Uddin L Scheduling Assistant 16000.0000
+Michiko Osada F Production Technician 9500.0000
+Benjamin Martin R Production Technician 9500.0000
+Cynthia Randall S Production Supervisor 25000.0000
+Kathie Flood E Production Technician 10000.0000
+Britta Simon L Production Technician 12500.0000
+Brian Lloyd T Production Technician 15000.0000
+David Liu J Accounts Manager 34700.0000
+Laura Norman F Chief Financial Officer 60100.0000
+Michael Patten W Production Technician 11000.0000
+Andy Ruth M Production Technician 9500.0000
+Yuhong Li L Production Supervisor 25000.0000
+Robert Rounthwaite J Production Technician 10000.0000
+Andreas Berglund T Quality Assurance Technician 10600.0000
+Reed Koch T Production Technician 9500.0000
+Linda Randall A Production Technician 14000.0000
+James Hamilton R Vice President of Production 84100.0000
+Ramesh Meyyappan V Application Specialist 27400.0000
+Stephanie Conroy A Network Manager 39700.0000
+Samantha Smith H Production Technician 14000.0000
+Tawana Nusbaum G Production Technician 15000.0000
+Denise Smith H Production Technician 11000.0000
+Hao Chen O Human Resources Administrative Assistant 13900.0000
+Alex Nayberg M Production Technician 10000.0000
+Eugene Kogan O Production Technician 12500.0000
+Brandon Heidepriem G Production Technician 12500.0000
+Dylan Miller A Research and Development Manager 50500.0000
+Shane Kim S Production Supervisor 25000.0000
+John Chen Y Production Technician 14000.0000
+Karen Berge R Document Control Assistant 10300.0000
+Jose Lugo R Production Technician 12500.0000
+Mandar Samant H Production Technician 11000.0000
+Mikael Sandberg Q Buyer 18300.0000
+Sameer Tejani A Production Technician 11000.0000
+Dragan Tomic K Accounts Payable Specialist 19000.0000
+Carol Philips M Production Technician 9500.0000
+Rob Caron T Production Technician 15000.0000
+Don Hall L Production Technician 11000.0000
+Alan Brewer J Scheduling Assistant 16000.0000
+David Lawrence Oliver Production Technician 9500.0000
+Baris Cetinok F Production Technician 15000.0000
+Michael Ray Sean Production Supervisor 25000.0000
+Steve Masters F Production Technician 12500.0000
+Suchitra Mohan O Production Technician 12500.0000
+Karen Berg A Application Specialist 27400.0000
+Terrence Earls W Production Technician 14000.0000
+Barbara Moreland C Accountant 26400.0000
+Chad Niswonger W Production Technician 11000.0000
+Rostislav Shabalin E Production Technician 9500.0000
+Belinda Newman M Production Technician 10000.0000
+Katie McAskill-White L Production Supervisor 25000.0000
+Russell King M Production Technician 9500.0000
+Jack Richins S Production Supervisor 25000.0000
+Andrew Hill R Production Supervisor 25000.0000
+Nicole Holliday B Production Technician 15000.0000
+Frank Miller T Production Technician 11000.0000
+Peter Connelly I Network Administrator 32500.0000
+Anibal Sousa T Production Technician 14000.0000
+Ken Myer L Production Technician 15000.0000
+Grant Culbertson  Human Resources Administrative Assistant 13900.0000
+Michael Entin T Production Technician 11000.0000
+Lionel Penuchot C Production Technician 10000.0000
+Thomas Michaels R Production Technician 12500.0000
+Jimmy Bischoff T Stocker 9000.0000
+Michael Vanderhyde T Production Technician 9500.0000
+Lori Kane A Production Supervisor 25000.0000
+Arvind Rao B Buyer 18300.0000
+Stefen Hesse A Production Technician 14000.0000
+Hazem Abolrous E Quality Assurance Manager 28800.0000
+Janet Sheperdigian L Accounts Payable Specialist 19000.0000
+Elizabeth Keyser I Production Technician 11000.0000
+Terry Eminhizer J Marketing Specialist 14400.0000
+John Frum  Production Technician 9500.0000
+Merav Netz A Production Technician 9500.0000
+Brian LaMee P Scheduling Assistant 16000.0000
+Kitti Lertpiriyasuwat H Production Technician 11000.0000
+Jay Adams G Production Technician 12500.0000
+Jan Miksovsky S Production Technician 9500.0000
+Brenda Diaz M Production Supervisor 25000.0000
+Andrew Cencini M Production Technician 10000.0000
+Chris Norred K Control Specialist 16800.0000
+Chris Okelberry O Production Technician 12500.0000
+Shelley Dyck  Production Technician 14000.0000
+Gabe Mares B Production Technician 15000.0000
+Mike Seamans K Accountant 26400.0000
+Michael Raheem  Research and Development Manager 42500.0000
+Gary Altman E. Facilities Manager 24000.0000
+Charles Fitzgerald B Production Technician 12500.0000
+Ebru Ersan  Production Technician 13500.0000
+Sylvester Valdez A Production Technician 14000.0000
+Brian Goldstein Richard Production Technician 15000.0000
+Linda Meisner P Buyer 18300.0000
+Betsy Stadick A Production Technician 13500.0000
+Magnus Hedlund E Facilities Administrative Assistant 9800.0000
+Karan Khanna R Production Technician 12500.0000
+Mary Baker R Production Technician 13500.0000
+Kevin Homer M Production Technician 13500.0000
+Mihail Frintu U Production Technician 15000.0000
+Bonnie Kearney  Production Technician 13500.0000
+Fukiko Ogisu J Buyer 18300.0000
+Hung-Fu Ting T Production Technician 14000.0000
+Gordon Hee L Buyer 18300.0000
+Kimberly Zimmerman B Production Technician 13500.0000
+Kim Abercrombie B Production Technician 12500.0000
+Sandeep Kaliyath P Production Technician 15000.0000
+Prasanna Samarawickrama E Production Technician 14000.0000
+Frank Pellow S Buyer 18300.0000
+Min Su G Production Technician 14000.0000
+Eric Brown L Production Technician 15000.0000
+Eric Kurjan S Buyer 18300.0000
+Pat Coleman H Janitor 9300.0000
+Maciej Dusza W Production Technician 12500.0000
+Erin Hagens M Buyer 18300.0000
+Patrick Wedge C Production Technician 13500.0000
+Frank Martinez R Production Technician 15000.0000
+Ed Dudenhoefer R Production Technician 12500.0000
+Christopher Hill E Production Technician 13500.0000
+Patrick Cook M Production Technician 15000.0000
+Krishna Sunkammurali  Production Technician 14000.0000
+Lori Penor K Janitor 9300.0000
+Danielle Tiedt C Production Technician 13500.0000
+Sootha Charncherngkha T Quality Assurance Technician 10600.0000
+Michael Zwilling J Production Technician 12500.0000
+Randy Reeves T Production Technician 12500.0000
+John Kane T Production Technician 13500.0000
+Jack Creasey T Production Technician 15000.0000
+Olinda Turner C Production Technician 14000.0000
+Stuart Macrae J Janitor 9300.0000
+Jo Berry L Janitor 9300.0000
+Ben Miller T Buyer 18300.0000
+Tom Vande Velde M Production Technician 13500.0000
+Ovidiu Cracium V Senior Tool Designer 28800.0000
+Annette Hill L Purchasing Assistant 12800.0000
+Janice Galvin M Tool Designer 25000.0000
+Reinout Hillmann  Purchasing Assistant 12800.0000
+Michael Sullivan I Senior Design Engineer 36100.0000
+Stephen Jiang Y North American Sales Manager 48100.0000
+Wanida Benshoof M Marketing Assistant 13500.0000
+Sharon Salavaria B Design Engineer 32700.0000
+John Wood L Marketing Specialist 14400.0000
+Mary Dempsey A Marketing Assistant 13500.0000
+Brian Welcker S Vice President of Sales 72100.0000
+Sheela Word H Purchasing Manager 30000.0000
+Michael Blythe G Sales Representative 23100.0000
+Linda Mitchell C Sales Representative 23100.0000
+Jillian Carson  Sales Representative 23100.0000
+Garrett Vargas R Sales Representative 23100.0000
+Tsvi Reiter Michael Sales Representative 23100.0000
+Pamela Ansman-Wolfe O Sales Representative 23100.0000
+Shu Ito K Sales Representative 23100.0000
+Jose Saraiva Edvaldo Sales Representative 23100.0000
+David Campbell R Sales Representative 23100.0000
+Amy Alberts E European Sales Manager 48100.0000
+Jae Pak B Sales Representative 23100.0000
+Ranjit Varkey Chudukatil R Sales Representative 23100.0000
+Tete Mensa-Annan A Sales Representative 23100.0000
+Syed Abbas E Pacific Sales Manager 48100.0000
+Rachel Valdez B Sales Representative 23100.0000
+Lynn Tsoflias  Sales Representative 23100.0000
+Svetlin Nakov Ivanov Independent Software Development  Consultant 48000.0000
+Martin Kulov  Independent .NET Consultant 48000.0000
+George Denchev  Independent Java Consultant 48000.0000
